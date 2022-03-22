@@ -27,7 +27,9 @@ Comparing the Thomas High School data from the original to the one in the challe
 - ### Scores by school size
 
 - ### Scores by school type
+[Type Summary with decimal points](Images/Type_Summary.png)
 
+[Type Summary with formatted decimal points](Images/Type_Summary_2.png)
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 1.
 2.
