@@ -5,6 +5,7 @@ As we worked through this module, we managed to gather plenty of data to help wi
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
 - ### How is the district summary affected?
+While looking at the district summary, we can see the subtle differences in the average math scores and in the passing math, reading, and overall percentages. For the average math score, there is approximately a 0.1 difference in the scores; 79.0 in the original and 78.9 in the Thomas Analysis. For the passing math percentage, there is approximately a 0.2 difference in the percentages; 75% in the original and 74.8% in the Thomas Analysis. For the passing reading percentage, there is approximately a 0.3 difference in the percentages; 86% in the original and 85.7% in the Thomas Analysis. For the overall passing percentage, there is approximately a 0.1 difference in the percentages; 65% in the original and 64.9% in the Thomas Analysis. Overall, the Thomas Analysis has a slight change from the original.
 
 - ### How is the school summary affected?
 
