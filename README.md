@@ -27,23 +27,31 @@ As we worked through this module, we managed to gather plenty of data to help wi
   - [Thomas Math and Reading Scores](Images/Thomas_MathReading_Scores.png)
 
     - No changes in the scores.
+ 
 - ##### Scores by school spending
-
+  - [Original Spending Summary](Images/Original_Spending.png) 
+  
+  - [Thomas Spending Summary](Images/Thomas_Spending.png)
+   
+    - Looking at the $631-645 category, it is obvious there are changes in each category. The differences range from approximately 0.01 to 0.08. The average math and reading scores have approximately a 0.01 difference. The % passing math has approximately a 0.02 difference. The % passing reading and % overall passing have approximately a 0.08 difference.
+ 
 - ##### Scores by school size
   - [Size Summary with decimal points](Images/Size_Summary.png)
     - When we look at the Medium (1000-1999) category, it is obvious there were changes in the scores and percentages across the board. For the Average Math Score, Average Reading Score, and % Passing Math categories, there is approximately a 0.01 difference. For the % Passing Reading and % Overall Passing, there is approximately a 0.6 difference.
   
   - [Size Summary with formatted decimal points](Images/SIze_Summary_2.png)
-    - When we round to the nearest whole number, there are no changes apparent in the data.
+    - Rounding to the nearest whole number, there are no changes apparent in the data.
+    
 - ##### Scores by school type
   - [Type Summary with decimal points](Images/Type_Summary.png)
+    - Within the charter type, there are slight changes in the scores and percentages. For the average math and reading scores and the % passing math, the difference is approximately 0.01; even less than 0.01 of a difference. For the % passing reading and the % overall passing, the difference is approximately 0.04.
 
   - [Type Summary with formatted decimal points](Images/Type_Summary_2.png)
     - When we rounded to the nearest whole number, the data remained the same.
 
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-1.
-2.
-3.
-4.
+1. While looking at the types, Thomas High School has the lowest scores and passing percentages amongst the other charter schools. When compared to the district schools, Thomas High School scores at about their level.
+2. If we examine the data from the size summary and type summary from the formatted versions, there are no changes. However, when we look at the data with more decimal points, we can see there are changes. Within the original analysis, charter schools had slightly higher scores and percentages than the ones exhibited in the challenge (Thomas) analysis. Within the the original analysis, Medium (1000-1999) sized schools also had slightly higher scores and percentages than the ones seen in the challenge analysis. It should be noted that the only category in which it was not higher was in the Average Reading Score.
+3. When we look at the school summary, the percentage of students who passed reading, math, and overall dropped astronomically. Out of all the summaries, the school summmary percentages were the most affected by the change in data.
+4. Overall, if we look at the data while rounding scores and percentages to the nearest whole number, it looks like there's not much difference in the data, besides in the school summary. 
