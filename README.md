@@ -6,9 +6,9 @@ As we worked through this module, we managed to gather plenty of data to help wi
 #### ***Note: For the pictures, the top picture is the original analysis and the bottom picture is the challenge analysis.***
 
 - ### How is the district summary affected?
-![District_Summary.png](Images/District_Summary.png)
+  - ![District_Summary.png](Images/District_Summary.png)
 
-While looking at the district summary, we can see the subtle differences in the average math scores and in the passing math, reading, and overall percentages. For the average math score, there is approximately a 0.1 difference in the scores; 79.0 in the original and 78.9 in the Thomas Analysis. For the passing math percentage, there is approximately a 0.2 difference in the percentages; 75% in the original and 74.8% in the Thomas Analysis. For the passing reading percentage, there is approximately a 0.3 difference in the percentages; 86% in the original and 85.7% in the Thomas Analysis. For the overall passing percentage, there is approximately a 0.1 difference in the percentages; 65% in the original and 64.9% in the Thomas Analysis. Overall, the Thomas Analysis has a slight change -- lower percentage -- in its percentages.
+  - While looking at the district summary, we can see the subtle differences in the average math scores and in the passing math, reading, and overall percentages. For the average math score, there is approximately a 0.1 difference in the scores; 79.0 in the original and 78.9 in the Thomas Analysis. For the passing math percentage, there is approximately a 0.2 difference in the percentages; 75% in the original and 74.8% in the Thomas Analysis. For the passing reading percentage, there is approximately a 0.3 difference in the percentages; 86% in the original and 85.7% in the Thomas Analysis. For the overall passing percentage, there is approximately a 0.1 difference in the percentages; 65% in the original and 64.9% in the Thomas Analysis. Overall, the Thomas Analysis has a slight change -- lower percentage -- in its percentages.
 
 - ### How is the school summary affected?
 ![School_Summary.png](Images/School_Summary.png)
@@ -27,9 +27,9 @@ Comparing the Thomas High School data from the original to the one in the challe
 - ### Scores by school size
 
 - ### Scores by school type
-[Type Summary with decimal points](Images/Type_Summary.png)
+  - [Type Summary with decimal points](Images/Type_Summary.png)
 
-[Type Summary with formatted decimal points](Images/Type_Summary_2.png)
+  - [Type Summary with formatted decimal points](Images/Type_Summary_2.png)
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 1.
 2.
